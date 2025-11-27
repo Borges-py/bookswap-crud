@@ -11,7 +11,7 @@ Frontend: HTML5 e CSS3 (para a estrutura e design básico).
 
 Interatividade: JavaScript puro (para manipulações dinâmicas simples na interface).
 
-Banco de Dados: [Mencione o SGBD que você usou, ex: MySQL ou PostgreSQL]
+Banco de Dados: MySQL
 
 🚀 Funcionalidades Principais
 Cadastro de Livro (Create): Inserir novos livros disponíveis no sistema.
