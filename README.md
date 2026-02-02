@@ -7,7 +7,7 @@ Desenvolvido para consolidar conhecimentos em integração entre frontend e back
 ✨ Tecnologias Utilizadas
 Backend: PHP (para a lógica de manipulação de dados e interação com o banco).
 
-Frontend: HTML5 e CSS3 (para a estrutura e design básico).
+Frontend: HTML5 e CSS (para a estrutura e design básico).
 
 Interatividade: JavaScript puro (para manipulações dinâmicas simples na interface).
 
